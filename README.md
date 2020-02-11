@@ -11,7 +11,7 @@ Matlab Version: R2019b Update 3 (9.7.0.1261785)
 
 4. run the code by clicking on the "Run" button
 
-5. If you want to take a deeper look at the figures, there are five figures shown after you run it.
+5. If you want to take a deeper look at the figures, there are 3 figures shown after you run it.
 
 6. The workspace contains all the variables in the code.
 
