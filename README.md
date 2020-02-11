@@ -1,6 +1,6 @@
 # 572_Project_1
 
-Matlab Version: R2019b Update 9.7.0
+Matlab Version: R2019b Update 3 (9.7.0.1261785)
 
 ## How to run the code
 1. Open Matlab with the above version. 
