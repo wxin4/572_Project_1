@@ -7,11 +7,13 @@ Matlab Version: R2019b Update 9.7.0
 
 2. Put the DataFolder into the same directory of the .m file
 
-3. run the code by clicking on the "Run" button
+3. Change the file_path name by the path of your own computer.
 
-4. If you want to take a deeper look at the figures, there are five figures shown after you run it.
+4. run the code by clicking on the "Run" button
 
-5. The workspace contains all the variables in the code.
+5. If you want to take a deeper look at the figures, there are five figures shown after you run it.
+
+6. The workspace contains all the variables in the code.
 
 ## Input Data
 Five cell arrays:
